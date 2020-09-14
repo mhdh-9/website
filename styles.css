@@ -80,7 +80,7 @@ a:hover {
 .top-cloud {
   position: absolute;
   right: 1.2rem;
-  bottom: 50px;
+  bottom: 2.5rem;
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
 }
