@@ -34,7 +34,7 @@ hr {
   margin: 80px auto;
 }
 
-a{
+a {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
@@ -74,9 +74,10 @@ a:hover {
   margin: 40px auto 60px;
 }
 
-.mountain{
+.mountain {
   width: 40%
 }
+
 .top-cloud {
   position: absolute;
   right: 1%;
@@ -91,12 +92,12 @@ a:hover {
   width: 20%
 }
 
-.profile-img{
-height:12.5rem;
-border-radius: 15rem  ;
+.profile-img {
+  height: 12.5rem;
+  border-radius: 15rem;
 }
 
-.skill-img{
+.skill-img {
   width: 30%;
   margin: 2% auto;
   height: 45%;
@@ -104,29 +105,26 @@ border-radius: 15rem  ;
 }
 
 /* <!-- achievements  section--> */
-
-.colored-section{
+.colored-section {
   background-color: #E4F9F5;
-
 }
 
-.carousel-item{
+.carousel-item {
   padding: 4%;
 }
 
 .carousel-control-next,
 .carousel-control-prev {
-    filter: invert(100%);
+  filter: invert(100%);
 }
 
-.achievements-image{
+.achievements-image {
   width: 50%;
   margin: auto;
 }
 
 /* <!-- contact  section--> */
-
-.contacts-image{
+.contacts-image {
   width: 15%;
   margin: auto;
   height: 30%;
