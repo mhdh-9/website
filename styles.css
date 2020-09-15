@@ -65,7 +65,7 @@ a:hover {
 }
 
 .intro {
-  width: 30%;
+  width: 85%;
   margin: auto;
 }
 
@@ -79,10 +79,9 @@ a:hover {
 }
 .top-cloud {
   position: absolute;
-  right: 1.2rem;
-  bottom: 2.5rem;
-  -webkit-transform: scaleX(-1);
-  transform: scaleX(-1);
+  right: 1%;
+  top: 0;
+  width: 15%;
 }
 
 .bottom-cloud {
@@ -112,7 +111,7 @@ border-radius: 250px  ;
 }
 
 .carousel-item{
-  padding: 4% 14%;
+  padding: 4%;
 }
 
 .carousel-control-next,
@@ -121,7 +120,7 @@ border-radius: 250px  ;
 }
 
 .achievements-image{
-  width: 50rem;
+  width: 50%;
   margin: auto;
 }
 
